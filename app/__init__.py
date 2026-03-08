@@ -1,0 +1,3 @@
+"""
+SwasthyaAI Lite application package.
+"""
