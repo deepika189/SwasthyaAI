@@ -1,0 +1,24 @@
+{
+  "best_model": "RandomForest",
+  "timestamp": "2026-03-03T12:06:57.543142",
+  "models": {
+    "RandomForest": {
+      "accuracy": 1.0,
+      "f1_weighted": 1.0,
+      "cv_f1_mean": 1.0,
+      "cv_f1_std": 0.0
+    },
+    "GradientBoosting": {
+      "accuracy": 1.0,
+      "f1_weighted": 1.0,
+      "cv_f1_mean": 0.9994903289566569,
+      "cv_f1_std": 0.00101934208668637
+    },
+    "LogisticRegression": {
+      "accuracy": 1.0,
+      "f1_weighted": 1.0,
+      "cv_f1_mean": 1.0,
+      "cv_f1_std": 0.0
+    }
+  }
+}
